@@ -1,10 +1,6 @@
-# MY RESUME - PORTAFOLIO (YOUTUBE)
+# MyResume - Bootstrap Resume and Portfolio Template
+[Página: bootstrapmade.com](https://bootstrapmade.com/free-html-bootstrap-template-my-resume)
 
-Faltan:
-
-- robot.txt
-- sitemap.xml
-- error 404
 
 ## Páginas
 - Home
