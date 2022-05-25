@@ -1,6 +1,6 @@
 # Template dev 2
 
-- [Enlace a GitHub Pages](https://robertomejiacollazos.github.io/MyResume-Portfolio/)
+- [Enlace a GitHub Pages](https://robertomejiacollazos.github.io/portafolio_dev_2/)
 
 ![Pantallazo](https://i.ibb.co/PTFGjBy/2020-12-17-18-19-06-Window.png)
 
